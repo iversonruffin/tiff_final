@@ -1,0 +1,19 @@
+{
+    "folders": [
+        {
+            "name": "tiff_pics_2",
+            "path": "../../Documents/GitHub/tiffany_website/Tiff's website github/img/tiff_pics_2"
+        },
+        {
+            "name": "tiff_pictures",
+            "path": "../../Documents/GitHub/tiffany_website/Tiff's website github/img/tiff_pictures"
+        },
+        {
+            "name": "templatemo_519_beauty",
+            "path": "."
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "templatemo_519_beauty"
+    }
+}
